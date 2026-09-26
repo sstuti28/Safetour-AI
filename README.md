@@ -1,9 +1,6 @@
-Copy everything below directly into your **`README.md`**:
 
-````markdown
-# 🛡️ Safetour AI
-
-## Smart Tourist Safety Monitoring and Early Warning System using AI
+🛡️ Safetour AI
+ Smart Tourist Safety Monitoring and Early Warning System using AI
 
 Safetour AI is a smart web-based tourist safety platform designed to monitor tourists in real time and provide early warnings about potential safety risks.
 
